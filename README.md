@@ -98,7 +98,7 @@ pip install -r requirements.txt
 > пока не будет отправлена команда его выключения.
 
 ## 📚 Полезные материалы
-* [Pioneer SDK (репозиторий)](https://gitflic.ru/project/geoscan-llc/pioneer-sdk?branch=simulator)
+* [Pioneer SDK (репозиторий)](https://gitflic.ru/project/geoscan-llc/pioneer-sdk)
 * [Документация Pioneer SDK](https://docs.geoscan.ru/pioneer/programming/python/pioneer-sdk-methods.html)
 * [Руководство по эксплуатации Geoscan Simulator](https://download.geoscan.ru/site-files/simulator/geoscan_simulator_manual.pdf)
 
